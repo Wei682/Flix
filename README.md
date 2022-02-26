@@ -19,7 +19,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="http://g.recordit.co/useJjiaMUz.gif" width=250><br>
 
 ### Notes
-/
+Initially, the words in my synopsisLabel sticked to the left side. I solved the problem by choosing the proper "disired width" in "Size inspector".
 
 ## Flix Part 1
 
