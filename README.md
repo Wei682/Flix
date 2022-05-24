@@ -12,9 +12,6 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 - [x] (5pts) User can tap a cell to see more details about a particular movie.
 - [x] (5pts) User can tap a tab bar button to view a grid layout of Movie Posters using a CollectionView.
 
-#### BONUS
-- [ ] (2pts) User can tap a poster in the collection view to see a detail screen of that movie.
-- [ ] (2pts) In the detail view, when the user taps the poster, a new screen is presented modally where they can view the trailer.
 
 <img src="http://g.recordit.co/useJjiaMUz.gif" width=250><br>
 
@@ -31,7 +28,6 @@ Initially, the words in my synopsisLabel sticked to the left side. I solved the 
 - [x] (3pts) User can view the movie poster image for each movie.
 
 #### BONUS
-- [ ] (2pt) User can view the app on various device sizes and orientations.
 - [x] (1pt) Run your app on a real device.
 
 ### App Walkthrough GIF
@@ -41,5 +37,3 @@ Initially, the words in my synopsisLabel sticked to the left side. I solved the 
 
 ![](https://i.imgur.com/4IrBZ3A.gif)
 
-### Notes
-Some unknown errors occurred when I tried to install CocoaPods. It was resolved after I searched online and used another method to install it. Thanks to Stack Overflow!
